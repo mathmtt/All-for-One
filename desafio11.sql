@@ -1,0 +1,1 @@
+SELECT notes FROM purchase_orders WHERE notes LIKE 'Purchase%' AND notes LIKE '%#3%';
